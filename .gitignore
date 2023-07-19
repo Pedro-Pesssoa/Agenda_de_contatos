@@ -1,2 +1,8 @@
+l*.log
+*.pot 
+*.pyc
 static/
 media/
+__pycache__/
+db.sqlite3
+project/local_settings.py
